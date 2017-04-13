@@ -6,39 +6,37 @@
   border: 2px dotted  white;
 }
 
-#row1 {
+.blue {
   height: 200px;
   background-color: blue;
   border: 1px solid black;
 }
 
-#row2 {
+.green {
   height: 50px;
   background-color: green;
   border: 1px solid black;
 }
 
-#row3 {
+.red {
+  background-color: red;
+  border: 1px solid black;
   height: 300px;
 }
 
-#red {
-  background-color: red;
-  border: 1px solid black;
-}
-
-#teal {
+.teal {
   background-color: teal;
   border: 1px solid black;
+  height: 300px;
 }
-
-#row4 {
+.orange {
   height: 250px;
   background-color: orange;
 }
 
-.col-xs-12 {
+.black {
   border: 1px solid black;
+  height: 100px;
 }
 
 #row5  {
