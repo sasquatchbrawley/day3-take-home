@@ -1,0 +1,48 @@
+.container-fluid {
+  background-color: yellow;
+}
+
+.container {
+  border: 2px dotted  white;
+}
+
+#row1 {
+  height: 200px;
+  background-color: blue;
+  border: 1px solid black;
+}
+
+#row2 {
+  height: 50px;
+  background-color: green;
+  border: 1px solid black;
+}
+
+#row3 {
+  height: 300px;
+}
+
+#red {
+  background-color: red;
+  border: 1px solid black;
+}
+
+#teal {
+  background-color: teal;
+  border: 1px solid black;
+}
+
+#row4 {
+  height: 250px;
+  background-color: orange;
+}
+
+.col-xs-12 {
+  border: 1px solid black;
+}
+
+#row5  {
+  height: 100px;
+  background-color: black;
+  border: 1px solid black;
+}
