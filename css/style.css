@@ -2,8 +2,16 @@
   background-color: yellow;
 }
 
+#cfp {
+  margin-top: 5%;
+  margin-left: 6%;
+  margin-bottom: 0%;
+}
+
 .container {
   border: 2px dotted  white;
+  margin: 0px auto;
+
 }
 
 .blue {
@@ -32,11 +40,13 @@
 .orange {
   height: 250px;
   background-color: orange;
+  border: 1px solid black;
 }
 
 .black {
   border: 1px solid black;
   height: 100px;
+  background-color: black;
 }
 
 #row5  {
