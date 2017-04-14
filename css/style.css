@@ -1,0 +1,56 @@
+.container-fluid {
+  background-color: yellow;
+}
+
+#cfp {
+  margin-top: 5%;
+  margin-left: 6%;
+  margin-bottom: 0%;
+}
+
+.container {
+  border: 2px dotted  white;
+  margin: 0px auto;
+
+}
+
+.blue {
+  height: 200px;
+  background-color: blue;
+  border: 1px solid black;
+}
+
+.green {
+  height: 50px;
+  background-color: green;
+  border: 1px solid black;
+}
+
+.red {
+  background-color: red;
+  border: 1px solid black;
+  height: 300px;
+}
+
+.teal {
+  background-color: teal;
+  border: 1px solid black;
+  height: 300px;
+}
+.orange {
+  height: 250px;
+  background-color: orange;
+  border: 1px solid black;
+}
+
+.black {
+  border: 1px solid black;
+  height: 100px;
+  background-color: black;
+}
+
+#row5  {
+  height: 100px;
+  background-color: black;
+  border: 1px solid black;
+}
